@@ -9,3 +9,8 @@ Ejecutar este comando
 ```
 npm install
 ```
+
+Uso
+```
+node app crear -b=5
+```
