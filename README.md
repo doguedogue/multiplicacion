@@ -14,4 +14,5 @@ Uso
 ```
 node app crear -b=5
 node app crear -base=5
+node app listar
 ```
