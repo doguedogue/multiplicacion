@@ -8,6 +8,7 @@ Ejecutar este comando
 
 ```
 npm install
+npm start
 ```
 
 Uso
