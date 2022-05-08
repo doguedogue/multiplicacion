@@ -8,13 +8,25 @@ Ejecutar este comando
 
 ```
 npm install
+```
+
+```
 npm start
 ```
 
 Uso
 ```
 node app crear -b=5
+```
+
+```
 node app crear -base=5
+```
+
+```
 node app crear -base=5 -limit=10
+```
+
+```
 node app listar
 ```
