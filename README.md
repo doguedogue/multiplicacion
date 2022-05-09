@@ -14,6 +14,10 @@ npm install
 npm start
 ```
 
+```
+node app.js
+```
+
 Uso
 ```
 node app crear -b=5
