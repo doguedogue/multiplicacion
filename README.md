@@ -15,6 +15,10 @@ npm start
 ```
 
 ```
+npm run start
+```
+
+```
 node app.js
 ```
 
