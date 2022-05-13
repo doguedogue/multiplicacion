@@ -22,6 +22,10 @@ npm run start
 node app.js
 ```
 
+```
+nodemon app.js
+```
+
 Uso
 ```
 node app crear -b=5
